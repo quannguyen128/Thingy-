@@ -1,0 +1,11 @@
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\bin\Debug\netcoreapp2.1\CompoundingInterest.deps.json
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\bin\Debug\netcoreapp2.1\CompoundingInterest.runtimeconfig.json
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\bin\Debug\netcoreapp2.1\CompoundingInterest.runtimeconfig.dev.json
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\bin\Debug\netcoreapp2.1\CompoundingInterest.dll
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\bin\Debug\netcoreapp2.1\CompoundingInterest.pdb
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\obj\Debug\netcoreapp2.1\CompoundingInterest.csprojAssemblyReference.cache
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\obj\Debug\netcoreapp2.1\CompoundingInterest.csproj.CoreCompileInputs.cache
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\obj\Debug\netcoreapp2.1\CompoundingInterest.AssemblyInfoInputs.cache
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\obj\Debug\netcoreapp2.1\CompoundingInterest.AssemblyInfo.cs
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\obj\Debug\netcoreapp2.1\CompoundingInterest.dll
+C:\Users\Quan\OneDrive\ABP Projects\CompoundingInterest\obj\Debug\netcoreapp2.1\CompoundingInterest.pdb
